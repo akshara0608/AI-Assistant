@@ -1,0 +1,5 @@
+{
+  "name": "AI Shopping Assistant",
+  "description": "An interactive web application that leverages the Gemini API to provide personalized product recommendations. Users can chat with an AI assistant, specify their needs and budget, and receive a curated list of products from a catalog.",
+  "requestFramePermissions": []
+}
